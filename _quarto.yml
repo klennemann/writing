@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: ""
+  navbar:
+    left:
+      - href: index.qmd
+        icon: house-fill
+        text: "LEFT FIELD"
+
+format:
+  html:
+    theme:
+      - sandstone
+      - brand
+    css: styles.css
+    toc: false
+    fontawesome: true
+
+editor: visual
+

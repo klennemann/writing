@@ -1,0 +1,70 @@
+---
+title: "After School"
+date: "February 6, 2026"
+published-title: "DATE:"
+format: html
+---
+
+<style>
+div.columns {
+  display: flex;
+  gap: 1rem !important;
+}
+
+div.columns > div.column {
+  flex: 1 1 0;
+  min-width: 0;
+}
+</style>
+
+:::: {.columns}
+
+::: {.column width="45%" style="text-align: right; font-size: 0.9rem;"}
+cooking all day, small hands red and\
+fingers curled, fermenting\
+in porcelain bowls and black vinegar tang\
+uncountable spoons in jars with red lids\
+
+cracked brown eggshells\
+oh / oh\
+i do not know\
+the steps to\
+this unwritten recipe\
+why would i\
+i’ve never had to make it / alone\
+the sweetness\
+lingers /\
+i become a child / once more\
+soup ladled out with heart\
+“come eat—\
+
+:::
+
+
+::: {.column width="45%" style="text-align: left; font-size: 0.9rem;"}
+
+swollen tension ballooning\
+feelings all day\
+sourness unmellowed by time\
+histories written in sticky residues\
+
+i come home and the air whispers\
+oh.\
+[ ]\
+this dance again\
+of rupture to come\
+so familiar / my tongue knows this taste\
+with my thoughts\
+of bitter thoughts\
+linger\
+once more / déjà vu\
+o these labors of love\
+it’ll grow cold”\
+
+:::
+
+::::
+
+\
+
+[◄ home](../index.html){.home-btn}

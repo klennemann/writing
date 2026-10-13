@@ -1,0 +1,97 @@
+---
+title: "ZINE 3"
+format: html
+---
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Average&display=swap');
+
+main.content, main.content p {
+  font-family: 'Average', Georgia, serif;
+}
+
+h1, h2, h3, .title {
+  font-family: 'Average', Georgia, serif;
+}
+</style>
+
+A month's worth of short digressions\
+Ft. the omnipresence of neglected responsibility
+\
+\
+November 4.\
+10:08am\
+(a Monday morning. There is much work to be done.)\
+The thing that gets me about a zine is its nonvisuality \
+(Is that a real word? Or did I make it up…who's to say. Autocorrect gives it a pass, so I do too)\
+So sharing a zine means unzipping my brain and sharing my haphazard collection of thoughts\
+Polished up perhaps, but unlike a photo or a collage, there's no possible separate visual appreciation that could be had. \
+To be known is worse than being naked.\
+The body is a product of the mind. \
+Does anyone ever read a zine and be like "brother euhhh?"\
+(Let me know in the comments below!)
+
+I jest, actually. Keep those comments in your head (the way I wish I could keep these thoughts in my head and lock in my statistics homework gah)\
+I'm prescribing a one-way street of zine consumption\
+Unless you have a digression of your own, in which case\
+Please!\
+Make a zine yourself\
+We can beef it out like opposing column writers, it'll be fun :) \
+\
+November 12\
+1:02am\
+One part I love about coding is the period of time waiting for (non buggy) code to run in its entirety\
+The decision of what I do in this period is between me and God\
+Technically on the clock but really,\
+These \
+&ensp; minutes\
+&ensp; &ensp; escape\
+Like November daydreams or M&Ms around unwatched children\
+Unremembered, fleeting, and only to be savored in the moment\
+\
+1:28am\
+If I had to pick any three words to encapsulate the greatest pressure of the last two weeks, it would be: LOCK IN BRO\
+\
+Two days ago:\
+"Oh shit; oh fuck," I remarked,\
+upon thinking I lost my passport\
+\
+November 23, 2024\
+2:29pm\
+I'm on a flight to layover in Beijing—\
+broken laptop, stomach full of a concoction of four drinks, peeling cuticles, a $2 piece of raw chocolate in backpack, 1583 almonds in the check in baggage, 200 won in my pocket, 1056/2000 words of my essay written (it was due last Tuesday), \
+What is life if not for this!\
+\
+December 3, 2024\
+2:31am\
+(I can't sleep. Self-imposed midnight bedtime largely unsuccessful.)
+
+Is the worship of aesthetics a sin? \
+It dances the line between the physical and the intangible \
+Through the collective of the physical, manifests the aesthetic\
+Cutting out all else along the way\
+\
+Later that day\
+12:26pm\
+I have a final in 4.5 hours\
+Instead of actually looking at three dimensional random walks and properties of random sums, I've figured that I really ought to be calculating what would be the OPTIMAL time to caffeinate so that way the caffeine hits but I won't be pissing my pants mid question 3 of the test\
+\
+December 9\
+3:06pm\
+i'm on my way to Pasir Ris, so far from Sheares…\
+i just cried on the train, head bowed
+
+all those homework and tests and grades from a week ago and more\
+all those troubles seem so far away\
+my head and heart are full\
+of ache
+
+physically and mentally raw from each goodbye, each 5am bedtime\
+but each one worth it because that's the price of having known all these people who,\
+somehow,\
+snuck their way into meaning something so dear, so near to me\
+\
+
+###### [1](zine1.html) &ensp; [2](zine2.html) &ensp; 3 &ensp; [4](zine4.html) &ensp; [5](zine5.html)
+\
+[◄ home](/){.home-btn}

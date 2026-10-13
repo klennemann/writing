@@ -1,0 +1,38 @@
+---
+title: "zine 4"
+format: html
+---
+
+<style>
+main.content, main.content p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3, .title {
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+
+Wednesday, April 16. 1:36pm.\
+I forgot about these, until i remember them, and then I always have a brief digression about zines:\
+Because here's the thing: they walk the line between being a journal entry and being public knowledge, a weird limbo to be in\
+How filtered do I go? How raw do I get??\
+A moot point however, in the grand scheme of things.\
+\
+Anywho lately i've been thinking that job hunting is a misleading term.\
+It's more along the line of beggarship methinks.\
+Hunting implies a sort of power,\
+a concept which rejections and ghostings smash with impunity.\
+\
+Other thoughts as of ten minutes ago: it's funny how white collar jobs like data analysis and sales are treated as better than plumbing. But they're their (sorry) own form of slavery. How is being confined to one place, day in and day out, any better than being able to move around and use your hands?\
+\
+I generally dislike framing capitalist workings as some evil conspiracy to enslave, weaken, coerce the masses. Not to say that isn't the reality. But who's to say that conspiracies are always centralized efforts though? This concept of sitting at a desk is better— maybe it is necessary to logically justify sitting on the internet, scrolling all day, slowly decomposing our brains. (All the same, I'm guilty of this. A modern vice.)\
+\
+But I suppose I do see the merits of, say, data analysis, where you can abstract what you are working on. Like math: it may just be scribbles on paper, but it means something, at least to the mathematician. But the plumber too sees the workings of the pipes like their own language—I sure as hell can't understand it!\
+\
+We all speak microcosms of languages in fact, depending on where we live and the communities we occupy and the morals we hold. I speak Upper Class Western Values, how about you? I talk about investing (a privilege), I talk about carrying out my dreams (an American), I talk about the onion I ate for lunch (a bad decision). We make friends based on who we communicate with. Building our bubbles. But who can blame wanting to be heard?\
+\
+
+###### [1](zine1.html) &ensp; [2](zine2.html) &ensp; [3](zine3.html) &ensp; 4 &ensp; [5](zine5.html)
+\
+[◄ home](/){.home-btn}

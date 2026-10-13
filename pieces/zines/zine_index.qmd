@@ -1,0 +1,18 @@
+---
+title: "Zines"
+format: html
+---
+
+[December 18, 2023. Zine (A Christmas Zine)](zine1.html)
+
+[March 31, 2024. Zine 2](zine2.html)
+
+[December 8, 2024. Zine 3](zine3.html)
+
+[April 16, 2025. zine 4](zine4.html)
+
+[April 30, 2026. zine 5](zine5.html)
+
+\
+
+[◄ home](../index.html){.home-btn}
