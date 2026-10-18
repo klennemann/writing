@@ -1,10 +1,11 @@
 ---
 title: "After School"
-date: "February 6, 2026"
-published-title: "DATE:"
+date: "October 12, 2026"
+published-title: "Last updated:"
 format: html
 ---
 
+```{=html}
 <style>
 div.columns {
   display: flex;
@@ -16,9 +17,9 @@ div.columns > div.column {
   min-width: 0;
 }
 </style>
+```
 
-:::: {.columns}
-
+::::: columns
 ::: {.column width="45%" style="text-align: right; font-size: 0.9rem;"}
 cooking all day, small hands red and\
 fingers curled, fermenting\
@@ -37,12 +38,9 @@ lingers /\
 i become a child / once more\
 soup ladled out with heart\
 “come eat—\
-
 :::
 
-
 ::: {.column width="45%" style="text-align: left; font-size: 0.9rem;"}
-
 swollen tension ballooning\
 feelings all day\
 sourness unmellowed by time\
@@ -50,7 +48,7 @@ histories written in sticky residues\
 
 i come home and the air whispers\
 oh.\
-[ ]\
+\[ \]\
 this dance again\
 of rupture to come\
 so familiar / my tongue knows this taste\
@@ -60,11 +58,8 @@ linger\
 once more / déjà vu\
 o these labors of love\
 it’ll grow cold”\
-
 :::
+:::::
 
-::::
-
-\
 
 [◄ home](../index.html){.home-btn}

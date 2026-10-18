@@ -76,7 +76,8 @@ The earliest piece of writing that I can find in my Google Drive is when I was t
 Generally speaking, it's become little less dramatic, and I'm also better now at deciding on names as opposed to using PERSON1 placeholders. My spelling blindspots continue to surprise me though, and I can't say if my writing now has improved more as a result of what I read, as opposed to practicing the craft. Sometimes I write and write and write, and rereading such pieces makes me understand why some people believe that God is speaking through them. Brigham Young and I, two peas (prophets?) in a pod. Not that there is something especially profound or life-changing in any one piece, but that it feels like an alter ego or clone wrote it, not me.
 
 
-However intentional it is, writing has always been a place of expression for me, and after taking one of my last general education classes in university on writing, I was moved by good teaching (thank you Nico!), good reading, and great conversation with my classmates to dig a little deeper into it and to also perhaps share with those around me. May something within my ramblings bring you some sort of deeper thought, or at the very least, a chuckle. x katinka
+However intentional it is, writing has always been a place of expression for me, and after taking one of my last general education classes in university on writing, I was moved by good teaching (thank you Nico!), good reading, and great conversation with my classmates to dig a little deeper into it and to also perhaps share with those around me. May something within my ramblings bring you some sort of deeper thought, or at the very least, a chuckle. \
+- katinka
 
 :::
 
@@ -100,6 +101,10 @@ However intentional it is, writing has always been a place of expression for me,
     <span>Zines (series)</span>
   </a>
   
+  <a class="tile" href="pieces/searching-for-truth.html">
+    <img src="pieces/images/searching-for-truth-thumbnail.jpg" alt="Searching for truth thumbnail">
+    <span>Searching for Truth</span>
+  </a>
   
 </div>
 :::

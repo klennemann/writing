@@ -1,0 +1,46 @@
+---
+title: "On Searching for Truth"
+date: "October 18, 2026"
+published-title: "DATE:"
+format: html
+---
+
+![Equidistant := people waiting for the 1 on Strathmore](images/searching-for-truth-thumbnail.JPG)
+
+The only truth I feel sure of these days is that nothing is universally true anymore, for two reasons: (1) The joy of critical thinking[^1] also means that with a few layers of questioning, I can conjure some edge case that makes a generalization grossly untrue for someone somewhere, and (2) In fact, we live in such a globalized world that our spheres of understanding, once small and local, have grown to encompass all the knowledge that can be shared on the internet. We could have, as peasants-serfs on a wheat farm, made some pretty generalizing statements in good faith about our limited lives. Now though? Good luck doing that without getting cancelled.
+
+Yet the human tendency to pick up on patterns is unavoidable. In each new environment, we find that there’s a set of rules for survival: the assumptions of what is valued, the requirements to gain within the system, and unspoken social norms. Frustratingly though, each new environment that you enter has new rules, and goddamn if they aren’t complicated and moreover different from the last set.
+
+**Garden of Eden**
+
+The earliest I can really recall this was in my middle school experience, likely because this is when our brains really start developing nuanced awareness of social dynamics. Here, I had emerged from elementary school scampering to find my footing in new classes, new teachers, and friends scattered to the four winds. I was also granted the luxurious autonomy in owning my very first piece of space, otherwise known as the combination locker—in this locker I stored my first piece of property that my mom didn’t know about. Namely, a tin of Altoids that my friend procured for me, paid for through our joint venture of selling paper ninja stars to affluent boys who bought them, a quarter a piece.
+
+The rules? Do your homework, and you’ll do well in class. Put yourself out there to find new friends, because your old ones are doing the same. Realize that people want things sometimes (paper ninja stars), and you can gain by providing those needs. By the end of middle school, I found myself with favorite teachers and subjects, enjoying the rewards from engaging in capitalistic exchange of value, and in a group of friends with whom I obnoxiously sang musicals through the halls.
+
+**The Rude Awakening**
+
+High school was when this friend group which I so loved started fracturing. A drawn-out heartbreak: high school merged two nearby middle schools together, and upon the introduction of outside influences, I learned what it means to grow apart from friends, the nasty feelings of friend-friend tensions, and what it feels like to be left out. I started witnessing the start of social stratification between students in Advanced Placement classes and those not, one that became more and more pronounced through my years of high school. And I learned a hell of a lot about European history—Degas’s dancers and the 1848 revolutions in Africa stay somehow rent-free in my head even today.
+
+The rules for survival had changed. Put yourself out there to find new friends, because your old ones are doing the same, because possibly they don’t like you anymore (for reasons that you might not be able to understand), or because they met someone they just like more. Your academic effort is now relative rather than absolute; you must compete to not get left behind. College applications spelled out to me in no uncertain terms that spots in university were highly limited, and highly coveted by my immediate peers. Whatever rules of middle school I thought were true, add a qualifier on them, stick some edge cases on them, double the complexity. On top of parsing through these new rules—puberty to boot.
+
+**The Salad Bar at Olive Garden**
+
+College? That’s where I watched the subjectivity of reality start to emerge when comparing my life to, say, my dorm neighbor. We might live entirely different lives, from the clubs we opted-in to join, to the amount of classes we decided to go to or not, to the dietary decisions we had the liberties to make. Carrots and sticks though: no longer did I need to ask to go to the bathroom, but with that same freedom came the responsibility of realizing Actions Have Consequences. Not like this rule didn’t exist in middle or high school, but college, with its hellish freedom and sky's-the-limit options, warranted the all-caps emphasis.
+
+Also entirely totaled now was the general effort-to-achievement relationship, once so reliable in my K12 years. I watched people nail their job interviews and secure their return offers, with their efforts bearing a frustratingly loose (sometimes even inverse) relationship with GPA and studying time. New sheriff in town: if you want to find success, know what you want, know which of your current efforts are relevant to getting what you want, and know what is irrelevant and should be ignored.[^2]
+
+What now? And now, post-college, I’m in a new workplace, trying to figure it out, again. The mapping of how much pay to expect based on tangible skills or intelligence or impact eludes any sort of cartography, at least in my immediate workplace. And the rules to happiness too, have a karmic non-linearity that I’ve yet to explicate—those who got what they wanted in college don’t necessarily seem the most content for instance, nor any of those who have hit classic young-adult milestones of partners or moving out.
+
+Whoever you are, reading this piece, your middle school, high school, and college experiences more likely than not followed entirely different rules for survival than the ones I had. Cultural background, personal values, economic circumstances, there is such a kaleidoscope of factors that change how we make sense of the world. It’s a wonder that we’re able to relate to each other and coexist as humans with all these differences in experiences!
+
+But that is what makes socializing so fun: seeing the human in each other through comparing each of paths. So even if there is no universal truth, I’d like to highlight the art of being curious, and making those generalizations anyway. I’m saying this as someone who has found much joy in creating metaphors and similes, comparing situations between people and coming together to find some sort of common truth.[^3] These generalizations help situate myself within the world, and also construct my own understanding of the world. Sometimes they’re not true, but sometimes they are useful for my immediate environment, such as the Garden of Eden, the Rude Awakening, the Salad Bar. These pet understandings make sense to me within the context of this piece of writing, and perhaps not much further than that, but they are still helpful in providing structure and understanding.
+
+Beyond our personal generalizations, it’s through talking with others about our experiences in life that we may touch on this wonderful feeling of constructing a common understanding of the world. Consider the concept of collective memory, which Wikipedia defines as a shared set of memories, knowledge, and information crucial to a social group’s identity. Collective understanding takes this collective memory one step further, and extrapolates them into frameworks that make sense of the world and how it works. That’s the joy of the post-event debrief, or a moral debate on a hypothetical. Some of my most wonderful friendships have been formed out of this catharsis of discovery, curiosity, and disagreement, trying to pin down the rules of the world and failing, but enjoying the process anyways. So gossip away, question away, share experiences and always, stay curious about not just the world, but the people that are experiencing this world with you, together.
+
+[^1]: The word joy being used semi-satirically here. Sometimes ignorance is bliss.
+
+[^2]: Most college group projects fall into this category. There’s a certain flavor of frustration being lumped into a group with differing levels of competence, and an entirely different one from being lumped with whip-smart deadbeats.
+
+[^3]: Arguably what makes up the best gossip session as well: not necessarily the topic of conversation or what actually happened, but how it is discussed. Being a great gossiper is in fact a skill. 
+
+[◄ home](../index.html){.home-btn}
