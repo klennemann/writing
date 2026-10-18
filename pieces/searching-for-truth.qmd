@@ -1,5 +1,5 @@
 ---
-title: "On Searching for Truth"
+title: "Searching for Truth"
 date: "October 18, 2026"
 published-title: "DATE:"
 format: html
