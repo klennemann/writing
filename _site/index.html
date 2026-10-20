@@ -6,6 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Short sentence about your writing site.">
 
 <title>Home</title>
 <style>
@@ -90,9 +91,8 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> <i class="bi bi-house-fill" role="img">
-</i> 
-<span class="menu-text">LEFT FIELD</span></a>
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text"><img src="./site-thumbnail.png" alt="" class="nav-home-img"> SIX ALLIGATORS</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -115,43 +115,51 @@ ul.task-list li input[type="checkbox"] {
 <style>
 .column p { margin: 4pt 0; }
 
+div.columns {
+  display: flex;
+  gap: 2rem !important;
+}
+div.columns > div.column { min-width: 0; }
+
+.column.body { padding-right: 1rem; }
+
+.header-img { /*text-align: center;*/ margin-top: 2rem; }
+.header-img img { width: 50%; height: auto; }
 
 .name-heading {
   font-size: 2rem;
   font-weight: 700;
   letter-spacing: 0.05em;
   text-transform: uppercase;
-  margin: 5% 0 10px 0;
+  /*text-align: center;*/
+  margin: 1rem 0 1.5rem 0;
 }
 
 .body {
   font-size: 0.8em;
 }
 
-
 .tile-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;  /* 2 tiles per row */
+  grid-template-columns: 1fr 1fr;
   gap: 12px;
 }
 
 .tile {
   position: relative;
   display: block;
-  aspect-ratio: 1 / 1;             /* keeps it square */
+  aspect-ratio: 1 / 1;
   overflow: hidden;
-  border-radius: 0px;
+  border-radius: 0;
 }
 
 .tile img {
   width: 100%;
   height: 100%;
-  object-fit: cover;               /* crops to fill the square */
+  object-fit: cover;
   margin: 0;
   transition: transform 0.3s ease;
 }
-
-.tile:hover img { transform: scale(1.06); }
 
 .tile span {
   position: absolute;
@@ -164,28 +172,90 @@ ul.task-list li input[type="checkbox"] {
   background: linear-gradient(transparent, rgba(0,0,0,0.65));
 }
 
+/* Zoom on hover only for devices that actually hover */
+@media (hover: hover) {
+  .tile:hover img { transform: scale(1.06); }
+}
 
+/* Mobile: stack blurb first, tiles after */
+@media (max-width: 767.98px) {
+  div.columns {
+    flex-direction: column !important;
+    gap: 1.5rem !important;
+  }
+
+  div.columns > div.column {
+    width: 100% !important;
+    flex: none !important;
+    padding-right: 0;
+  }
+
+  /* Blurb first, tiles second */
+  div.columns > div.column.body { order: 1; }
+  div.columns > div.column.tiles-col { order: 2; }
+
+  .header-img img { width: 100%; }
+
+  .name-heading {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+  }
+
+  .column.body {
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+
+  .tile-grid { gap: 8px; }
+
+  .tile span {
+    font-size: 0.8rem;
+    padding: 14px 6px 6px;
+    letter-spacing: 0.04em;
+  }
+}
 </style>
 <div class="name-heading">
-<p>LEFT FIELD</p>
+<p>SIX ALLIGATORS</p>
 </div>
 <div class="columns">
 <div class="column body" style="width:45%;">
 <p>The earliest piece of writing that I can find in my Google Drive is when I was twelve. At the risk of coming off like a recipe blog with useless preamble, I want to note that it’s a little gratifying to see that ten years later, my writing quality has improved a bit.</p>
-<p><img src="writing_snippet.png" class="framed img-fluid quarto-figure quarto-figure-center" style="width:100.0%" alt="Screenshot of my earliest writing"> Generally speaking, it’s become little less dramatic, and I’m also better now at deciding on names as opposed to using PERSON1 placeholders. My spelling blindspots continue to surprise me though, and I can’t say if my writing now has improved more as a result of what I read, as opposed to practicing the craft. Sometimes I write and write and write, and rereading such pieces makes me understand why some people believe that God is speaking through them. Brigham Young and I, two peas (prophets?) in a pod. Not that there is something especially profound or life-changing in any one piece, but that it feels like an alter ego or clone wrote it, not me.</p>
-<p>However intentional it is, writing has always been a place of expression for me, and after taking one of my last general education classes in university on writing, I was moved by good teaching (thank you Nico!), good reading, and great conversation with my classmates to dig a little deeper into it and to also perhaps share with those around me. May something within my ramblings bring you some sort of deeper thought, or at the very least, a chuckle.<br>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="writing_snippet.png" class="framed img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%" alt="Screenshot of my earliest writing"></p>
+</figure>
+</div>
+<p>Generally speaking, it’s become little less dramatic, and I’m also better now at deciding on names as opposed to using PERSON1 placeholders. My spelling blindspots continue to surprise me though, and I can’t say if my writing now has improved more as a result of what I read, as opposed to practicing the craft. Sometimes I write and write and write, and rereading such pieces makes me understand why some people believe that God is speaking through them. Brigham Young and I, two peas (prophets?) in a pod. Not that I’ve written anything especially profound or surprising in any one piece, but there is something sneakily transient about things I’ve written.</p>
+<p>However in-control I am of my writing or not, it has always been a place of expression for me, and after taking one of my last general education classes in university on writing, I was moved by good teaching (thank you Nico!), good reading, and great conversation with my classmates to dig a little deeper into it, and to also perhaps share with those around me. May something within my ramblings bring you some sort of deeper thought, or at the very least, a chuckle.<br>
 - katinka</p>
-</div><div class="column" style="width:5%;">
-
-</div><div class="column" style="width:50%;">
+</div><div class="column tiles-col" style="width:50%;">
 <div class="tile-grid">
-<p><a class="tile" href="pieces/on-the-uses-of-grief.html"> <img src="pieces/images/the-uses-of-thumbnail.jpg" alt="On the Uses of Grief"> <span>The Uses of Grief</span> </a></p>
-<p><a class="tile" href="pieces/after-school.html"> <img src="pieces/images/after-school-thumbnail.jpg" alt="After school"> <span>After School</span> </a></p>
-<p><a class="tile" href="pieces/zines/zine_index.html"> <img src="pieces/images/zines-thumbnail.jpg" alt="Zine thumbnail"> <span>Zines (series)</span> </a></p>
-<p><a class="tile" href="pieces/searching-for-truth.html"> <img src="pieces/images/searching-for-truth-thumbnail.jpg" alt="Searching for truth thumbnail"> <span>Searching for Truth</span> </a></p>
+<a class="tile" href="pieces/on-the-uses-of-grief.html">
+  <img src="pieces/images/the-uses-of-thumbnail.jpg" alt="On the Uses of Grief" width="600" height="600" loading="lazy" decoding="async">
+  <span>The Uses of Grief</span>
+</a>
+
+<a class="tile" href="pieces/after-school.html">
+  <img src="pieces/images/after-school-thumbnail.jpg" alt="After school" width="600" height="600" loading="lazy" decoding="async">
+  <span>After School</span>
+</a>
+
+<a class="tile" href="pieces/zines/zine_index.html">
+  <img src="pieces/images/zines-thumbnail.jpg" alt="Zine thumbnail" width="600" height="600" loading="lazy" decoding="async">
+  <span>Zines (series)</span>
+</a>
+
+<a class="tile" href="pieces/searching-for-truth.html">
+  <img src="pieces/images/searching-for-truth-thumbnail.jpg" alt="Searching for truth thumbnail" width="600" height="600" loading="lazy" decoding="async">
+  <span>Searching for Truth</span>
+</a>
 </div>
 </div>
 </div>
+<p><br>
+<br>
+<img src="six-alligators-thumbnail.png" class="img-fluid quarto-figure quarto-figure-right" alt="Six Alligators"></p>
 
 
 

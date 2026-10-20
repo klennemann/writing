@@ -55,6 +55,14 @@ h1, h2, h3, h4, h5, h6, p, a, li, span, div {
   filter: invert(1);
 }
 
+.nav-home-img {
+  height: 1.4rem;
+  width: auto;
+  vertical-align: middle;
+  margin-right: 0.4rem;
+}
+
+
 /* adjust quarto place layout */
 #quarto-content {
   padding-top: 80px;

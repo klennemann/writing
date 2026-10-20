@@ -91,9 +91,8 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> <i class="bi bi-house-fill" role="img">
-</i> 
-<span class="menu-text">LEFT FIELD</span></a>
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text"><img src="../site-thumbnail.png" alt="" class="nav-home-img"> SIX ALLIGATORS</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -135,7 +134,12 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><img src="images/the-uses-of-thumbnail.JPG" class="img-fluid"></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/the-uses-of-thumbnail.JPG" class="img-fluid figure-img"></p>
+<figcaption>LA fires, from out my friend’s dorm window</figcaption>
+</figure>
+</div>
 <p>Something that reliably grinds my gears: bestowed faith upon our generation that we will solve The Climate Change Issue. It comes usually in the form of well meaning older adults seeing some motivated kids doing something—anything, really—that is vaguely environmental. Extra points if you are young. Extra extra points if you involve other people! Extra extra extra points if you do something that an adult was supposed to do!</p>
 <p>“Oh my, you are so smart and talented and I have so much faith in you to solve climate change! It’s the biggest problem of your generation!”</p>
 <p>Biggest. Problem. Of my generation.</p>
@@ -231,7 +235,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/left-field\.netlify\.app");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

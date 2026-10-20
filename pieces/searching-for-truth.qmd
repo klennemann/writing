@@ -5,7 +5,7 @@ published-title: "DATE:"
 format: html
 ---
 
-![Equidistant := people waiting for the 1 on Strathmore](images/searching-for-truth-thumbnail.JPG)
+![*Somewhere in the mountains of New Mexico someone placed this little guy. He looks at peace. I hope he doesn't mind that I put him permanently on the internet.*](images/searching-for-truth-thumbnail.JPG)
 
 The only truth I feel sure of these days is that nothing is universally true anymore, for two reasons: (1) The joy of critical thinking[^1] also means that with a few layers of questioning, I can conjure some edge case that makes a generalization grossly untrue for someone somewhere, and (2) In fact, we live in such a globalized world that our spheres of understanding, once small and local, have grown to encompass all the knowledge that can be shared on the internet. We could have, as peasants-serfs on a wheat farm, made some pretty generalizing statements in good faith about our limited lives. Now though? Good luck doing that without getting cancelled.
 

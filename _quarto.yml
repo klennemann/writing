@@ -6,8 +6,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-        icon: house-fill
-        text: "LEFT FIELD"
+        text: '<img src="/site-thumbnail.png" alt="" class="nav-home-img"> SIX ALLIGATORS'
 
 format:
   html:

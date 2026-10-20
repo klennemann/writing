@@ -5,7 +5,7 @@ published-title: "DATE:"
 format: html
 ---
 
-![](images/the-uses-of-thumbnail.JPG)
+![*The 2025 LA fires, as seen from my friend's dorm room window.*](images/the-uses-of-thumbnail.JPG)
 
 Something that reliably grinds my gears: bestowed faith upon our generation that we will solve The Climate Change Issue. It comes usually in the form of well meaning older adults seeing some motivated kids doing something—anything, really—that is vaguely environmental. Extra points if you are young. Extra extra points if you involve other people! Extra extra extra points if you do something that an adult was supposed to do!
 

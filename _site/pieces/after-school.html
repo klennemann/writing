@@ -91,9 +91,8 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> <i class="bi bi-house-fill" role="img">
-</i> 
-<span class="menu-text">LEFT FIELD</span></a>
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text"><img src="../site-thumbnail.png" alt="" class="nav-home-img"> SIX ALLIGATORS</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -121,7 +120,7 @@ ul.task-list li input[type="checkbox"] {
 
     
     <div>
-    <div class="quarto-title-meta-heading">Last updated:</div>
+    <div class="quarto-title-meta-heading">DATE:</div>
     <div class="quarto-title-meta-contents">
       <p class="date">October 12, 2026</p>
     </div>
@@ -265,7 +264,7 @@ it’ll grow cold”<br>
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/left-field\.netlify\.app");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
